@@ -26,7 +26,7 @@ No projeto Jovem e Tecnologia, estou aprimorando meus conhecimentos em:
 * 🌐 **Desenvolvimento Web & Software** (Construindo a base para o nível intermediário)
 
 ---
-
+instagram: yasmin-rcardoso3
 ### 📫 Vamos nos conectar?
 
 * 📧 Seu e-mail: `yasmin12rodrigues3975@gmail.com
